@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    SiewYit Yong -- bioinformatician -- @siewyit
 
 # THANKS
 
-    <name>
+   Marina Mele -- Developer -- @marina_mele 
 
 # TECHNOLOGY COLOPHON
 
+    Django
     HTML5, CSS3
     jQuery, Modernizr
